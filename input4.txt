@@ -1,0 +1,16 @@
+Hotel Surfers 101 2
+Hotel Surfers 102 1
+Hotel Victoria 333 3
+Hotel Victoria 111 1
+Print Surfers
+Booking john Jan 25 2 single 1 double 1
+Booking step Jan 23 2 double 1 single 1
+Booking poke Jan 24 1 single 1
+Booking kkk Jan 27 8 double 1
+Booking jjj Feb 1 5 single 1
+Booking lll Jan 29 4 single 1 double 1
+Cancel kkk
+Change jjj Mar 2 4 single 1 double 1
+Booking lll Jan 29 4 single 1 double 1
+Print Surfers
+Print Victoria

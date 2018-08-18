@@ -1,0 +1,24 @@
+Hotel Surfers 101 2
+Print Surfers
+Print Victoria
+Hotel Victoria 101 3
+Hotel Victoria 102 3
+Hotel Victoria 103 3
+Hotel Victoria 104 2
+Hotel Victoria 105 2
+Hotel Victoria 106 2
+Booking John Feb 20 3 single 1 double 2
+Hotel Surfers 102 1
+Print Surfers
+Booking Step Feb 3 10 triple 4
+Booking Step Feb 5 10 triple 3
+Change Step Feb 5 10 triple 3
+Booking NIKI Feb 2 8 double 2
+Booking POKER Feb 5 6 double 2 single 1
+Cancel NIKI
+Hotel Victoria 107 1
+Booking POKER Feb 5 6 single 1 double 2
+Print Victoria
+Print Surfers
+Cancel Step
+Print Victoria

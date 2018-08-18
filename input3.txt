@@ -1,0 +1,17 @@
+Hotel a 101 3
+Hotel b 101 2
+Hotel c 101 1
+Print a
+Booking aa Dec 13 300 single 1
+Booking bb Jan 10 365 single 1
+Print c
+Change aa Jan 3 100 double 1
+Print b
+Booking cc Feb 3 10 single 1
+Booking bb Jan 10 365 single 1
+Print c
+Booking dd Jun 3 200 triple 1
+Print a
+Booking ee May 6 30 double 1
+Booking ff Mar 1 20 double 1
+Print b
